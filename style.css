@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  padding: 10px;
+  margin: -0.8px;
+  font-family: serif;
+  text-transform: capitalise;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: orange; 
+  
+}
+
+h2 {
+  color: white;
+}
+
+h3 { 
+  font-family: serif; 
+  color: orange;
+}
+
+ol {
+  color: white; 
+}
+
+a {
+  text-decoration: wavy underline;
+  text-transform: uppercase; 
+}
