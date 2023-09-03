@@ -23,9 +23,10 @@ h3 {
 
 ol {
   color: white; 
+  line-height: 1.4em; 
+  font-size: 150%;
 }
 
 a {
-  text-decoration: wavy underline;
-  text-transform: uppercase; 
+  text-transform: capitalize; 
 }
